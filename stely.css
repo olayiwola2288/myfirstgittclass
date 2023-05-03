@@ -1,0 +1,11 @@
+#navbarScroll{
+    display: flex;
+    justify-content: space-between;
+}
+#firs{
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    display: inline;
+}
